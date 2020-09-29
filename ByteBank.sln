@@ -1,0 +1,59 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-ByteBank", "01-ByteBank\01-ByteBank.csproj", "{81DE3A36-4F7F-4A8C-AA41-2D3535FD7F34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-ByteBank", "02-ByteBank\02-ByteBank.csproj", "{0999E92D-C54C-47A0-AD95-3A854EEF85EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-ByteBank", "03-ByteBank\03-ByteBank.csproj", "{DA036A3E-4B9D-475C-84B2-0DD099D57CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ByteBank", "04-ByteBank\04-ByteBank.csproj", "{72540A69-2169-4C48-90A8-C3451C466FC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-ByteBank", "05-ByteBank\05-ByteBank.csproj", "{41FEE00E-986E-4B29-81F8-187AF01F70D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ByteBank", "06-ByteBank\06-ByteBank.csproj", "{2D2652BC-3E90-41BC-B5B3-DE2D475BDC10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-ByteBank", "07-ByteBank\07-ByteBank.csproj", "{77BBBE62-5E58-49D2-BBB9-7AEAB3B5C1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank", "ByteBank\ByteBank.csproj", "{39B7A566-950E-44E8-AF62-A61BA478A058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81DE3A36-4F7F-4A8C-AA41-2D3535FD7F34}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{81DE3A36-4F7F-4A8C-AA41-2D3535FD7F34}.Debug|anycpu.Build.0 = Debug|anycpu
+		{81DE3A36-4F7F-4A8C-AA41-2D3535FD7F34}.Release|anycpu.ActiveCfg = Release|anycpu
+		{81DE3A36-4F7F-4A8C-AA41-2D3535FD7F34}.Release|anycpu.Build.0 = Release|anycpu
+		{0999E92D-C54C-47A0-AD95-3A854EEF85EB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0999E92D-C54C-47A0-AD95-3A854EEF85EB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0999E92D-C54C-47A0-AD95-3A854EEF85EB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0999E92D-C54C-47A0-AD95-3A854EEF85EB}.Release|anycpu.Build.0 = Release|anycpu
+		{DA036A3E-4B9D-475C-84B2-0DD099D57CDC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DA036A3E-4B9D-475C-84B2-0DD099D57CDC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DA036A3E-4B9D-475C-84B2-0DD099D57CDC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DA036A3E-4B9D-475C-84B2-0DD099D57CDC}.Release|anycpu.Build.0 = Release|anycpu
+		{72540A69-2169-4C48-90A8-C3451C466FC6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{72540A69-2169-4C48-90A8-C3451C466FC6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{72540A69-2169-4C48-90A8-C3451C466FC6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{72540A69-2169-4C48-90A8-C3451C466FC6}.Release|anycpu.Build.0 = Release|anycpu
+		{41FEE00E-986E-4B29-81F8-187AF01F70D4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{41FEE00E-986E-4B29-81F8-187AF01F70D4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{41FEE00E-986E-4B29-81F8-187AF01F70D4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{41FEE00E-986E-4B29-81F8-187AF01F70D4}.Release|anycpu.Build.0 = Release|anycpu
+		{2D2652BC-3E90-41BC-B5B3-DE2D475BDC10}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2D2652BC-3E90-41BC-B5B3-DE2D475BDC10}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2D2652BC-3E90-41BC-B5B3-DE2D475BDC10}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2D2652BC-3E90-41BC-B5B3-DE2D475BDC10}.Release|anycpu.Build.0 = Release|anycpu
+		{77BBBE62-5E58-49D2-BBB9-7AEAB3B5C1B2}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{77BBBE62-5E58-49D2-BBB9-7AEAB3B5C1B2}.Debug|anycpu.Build.0 = Debug|anycpu
+		{77BBBE62-5E58-49D2-BBB9-7AEAB3B5C1B2}.Release|anycpu.ActiveCfg = Release|anycpu
+		{77BBBE62-5E58-49D2-BBB9-7AEAB3B5C1B2}.Release|anycpu.Build.0 = Release|anycpu
+		{39B7A566-950E-44E8-AF62-A61BA478A058}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{39B7A566-950E-44E8-AF62-A61BA478A058}.Debug|anycpu.Build.0 = Debug|anycpu
+		{39B7A566-950E-44E8-AF62-A61BA478A058}.Release|anycpu.ActiveCfg = Release|anycpu
+		{39B7A566-950E-44E8-AF62-A61BA478A058}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
