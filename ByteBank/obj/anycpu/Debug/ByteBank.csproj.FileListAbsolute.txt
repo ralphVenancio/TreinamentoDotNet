@@ -1,0 +1,6 @@
+C:\Users\ralph\Source\Repos\ralphVenancio\TreinamentoDotNet\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\ralph\Source\Repos\ralphVenancio\TreinamentoDotNet\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\ralph\Source\Repos\ralphVenancio\TreinamentoDotNet\ByteBank\obj\anycpu\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\ralph\Source\Repos\ralphVenancio\TreinamentoDotNet\ByteBank\obj\anycpu\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Source\Repos\ralphVenancio\TreinamentoDotNet\ByteBank\obj\anycpu\Debug\ByteBank.exe
+C:\Users\ralph\Source\Repos\ralphVenancio\TreinamentoDotNet\ByteBank\obj\anycpu\Debug\ByteBank.pdb
